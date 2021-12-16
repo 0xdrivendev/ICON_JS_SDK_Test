@@ -5,9 +5,13 @@ https://icondev.io/icon-sdks/javascript
 
 Objectives:
 [] Wallet Creation
+
 [] Value Transfer
+
 [] Chain Analytics
+
 [] BTP - Interoperability - SCORE (Smart Contract On Reliable Environment)
+
 [] NFT Interaction
 
 Languages Used:
