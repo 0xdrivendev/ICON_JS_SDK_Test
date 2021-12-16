@@ -4,6 +4,7 @@ ICON Blockchain web app practice development repo
 https://icondev.io/icon-sdks/javascript
 
 Objectives:
+
 [] Wallet Creation
 
 [] Value Transfer
@@ -15,6 +16,7 @@ Objectives:
 [] NFT Interaction
 
 Languages Used:
+
 > HTML
 > CSS
 > Javascript
