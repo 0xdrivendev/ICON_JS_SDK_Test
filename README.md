@@ -19,5 +19,5 @@ Languages Used:
 
 > HTML
 > CSS
-> Javascript
+> Typescript - Javascript
 > Java
